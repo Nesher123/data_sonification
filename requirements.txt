@@ -1,0 +1,8 @@
+pyo
+astronify
+lightkurve
+librosa
+soundfile
+IPython
+numpy
+scipy
